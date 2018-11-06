@@ -1,0 +1,6 @@
+<view>
+    <view class="title">web-view</view>
+    <view class="item-container">
+        <web-view src="https://mp.weixin.qq.com/"></web-view>
+    </view>
+</view>
