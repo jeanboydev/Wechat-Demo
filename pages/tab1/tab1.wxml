@@ -21,6 +21,7 @@
         <view class='item' bindtap="toForm">form</view>
         <view class='item' bindtap="toForm">slider</view>
         <view class='item' bindtap="toForm">switch</view>
+        <view class='item' bindtap="toForm">picker</view>
     </view>
     <view class='item-container'>
         <view class='title'>媒体组件</view>

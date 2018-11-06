@@ -9,7 +9,9 @@ Page({
             { name: 'TUR', value: '法国' }],
         radioItems: [
             { name: '男', value: '1' },
-            { name: '女', value: '2', checked: 'true' }]
+            { name: '女', value: '2', checked: 'true' }],
+        array: ['美国', '中国', '巴西', '日本'],
+        index: 1
     },
     onLoad: function (options) {
 

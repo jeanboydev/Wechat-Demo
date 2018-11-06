@@ -46,4 +46,10 @@
     <view class="item-container">
         <switch bindchange="switchChange" />
     </view>
+    <view class="title">picker</view>
+    <view class="item-container">
+        <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+            <view class="picker">当前选择：{{array[index]}}</view>
+        </picker>
+    </view>
 </view>
