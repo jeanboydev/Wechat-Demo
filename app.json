@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/tab1/tab1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "DEMO",
+    "navigationBarTextStyle": "black"
+  }
+}
