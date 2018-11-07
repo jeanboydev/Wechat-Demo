@@ -14,6 +14,7 @@ Page({
         index: 1
     },
     onLoad: function (options) {
+        
 
     },
     onReady: function () {
